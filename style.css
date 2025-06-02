@@ -257,7 +257,8 @@ li {
         color: black;
         overflow-y: auto;
         font-size: 14px;
-        padding-left :15px !important;
+        padding-left: 15px !important;
+        margin-bottom: 5px !important;
     }
     /* child 1 end */
 
